@@ -1,0 +1,10 @@
+.timerText {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.startBtn, .stopBtn, .resetBtn {
+    width: 120px;
+    height: 45px;
+    cursor: pointer;
+}
